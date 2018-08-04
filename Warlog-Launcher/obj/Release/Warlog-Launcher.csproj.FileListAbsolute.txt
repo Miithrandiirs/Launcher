@@ -1,0 +1,17 @@
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\bin\Release\Warlog-Launcher.exe.config
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\bin\Release\Warlog-Launcher.exe
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\bin\Release\Warlog-Launcher.pdb
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\bin\Release\Newtonsoft.Json.xml
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\MainWindow.g.cs
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\App.g.cs
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\Warlog-Launcher_MarkupCompile.cache
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\Warlog-Launcher_MarkupCompile.lref
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\MainWindow.baml
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\Warlog-Launcher.g.resources
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\Warlog_Launcher.Properties.Resources.resources
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\Warlog-Launcher.csproj.GenerateResource.cache
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\Warlog-Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\Warlog-Launcher.csproj.CopyComplete
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\Warlog-Launcher.exe
+C:\Users\Mithrandir\source\repos\Warlog-Launcher\Warlog-Launcher\obj\Release\Warlog-Launcher.pdb

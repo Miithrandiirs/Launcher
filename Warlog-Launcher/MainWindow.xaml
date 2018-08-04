@@ -1,0 +1,48 @@
+﻿<Window x:Class="Warlog_Launcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Warlog_Launcher"
+        mc:Ignorable="d"
+        Title="Warlog Launcher" Height="450" Width="800">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="419" VerticalAlignment="Top" Width="792">
+            <TabItem Header="Accueil">
+                <Grid Background="#FFE5E5E5" Margin="0,0,0,0">
+                    <Grid>
+                        <Label Content="État des serveurs :" HorizontalAlignment="Left" Margin="310,10,0,0" VerticalAlignment="Top"/>
+                        <Label Content="OUVERT" HorizontalAlignment="Left" Margin="414,10,0,0" VerticalAlignment="Top"/>
+                    </Grid>
+                    <Button Content="Button" Height="82" Margin="215,254,891,0" VerticalAlignment="Top"/>
+                    <Rectangle Fill="#FF1AB26D" HorizontalAlignment="Left" Height="13" Margin="-22,70,-19,0" Stroke="White" VerticalAlignment="Top" Width="827"/>
+                    <CheckBox Content="Téléchargement et mise à jour du pack : Textures HD" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top" Name="textureCheck" Checked="CheckBox_Checked" Unchecked="CheckBox_UnChecked"/>
+                    <Button Content="LANCER LE JEU" Height="87" Margin="190,287,190,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+                    <ProgressBar Name="progressBar" HorizontalAlignment="Left" Height="30" Margin="10,219,0,0" VerticalAlignment="Top" Width="766"/>
+                    <Label Content="Votre vitesse :" HorizontalAlignment="Left" Height="29" Margin="10,185,0,0" VerticalAlignment="Top" Width="182"/>
+                    <Label Content="0" Name="speedConnexion" HorizontalAlignment="Left" Height="29" Margin="105,185,0,0" VerticalAlignment="Top" Width="87"/>
+                    <Label Content="Effectué :" HorizontalAlignment="Left" Margin="653,185,0,0" VerticalAlignment="Top" Height="29" Width="67"/>
+                    <Label Content="0" Name="percent" HorizontalAlignment="Left" Margin="725,185,0,0" VerticalAlignment="Top" Height="29" Width="51"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Option">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="80"></RowDefinition>
+                        <RowDefinition Height="80"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Emplacement du jeu :" HorizontalAlignment="Left" Margin="36,10,0,0" VerticalAlignment="Top"/>
+                    <Button Content="Je localise mon jeu" Grid.Column="1" HorizontalAlignment="Left" Margin="67,34,0,0" VerticalAlignment="Top" Width="129" Click="Button_Click"/>
+                    <Label Content="" Name="location" HorizontalAlignment="Left" Height="35" Margin="0,36,0,0" VerticalAlignment="Top" Width="383"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+
+    </Grid>
+</Window>
